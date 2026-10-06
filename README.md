@@ -68,54 +68,53 @@ Engenheiro de software sênior com **6+ anos** construindo backends, APIs e plat
 
 ## 05 · Toolbox
 
-<details>
-<summary><b>Languages</b></summary>
+**Languages**
 
-TypeScript · JavaScript · Rust (estudando) · Odin (estudando)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust_(estudando)-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Odin](https://img.shields.io/badge/Odin_(estudando)-37B6FF?style=for-the-badge&logo=odin&logoColor=white)
 
-</details>
+**Backend**
 
-<details>
-<summary><b>Backend</b></summary>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-NestJS · Node.js · APIs REST · Prisma
+**Frontend**
 
-</details>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<details>
-<summary><b>Frontend</b></summary>
+**Infrastructure**
 
-Next.js · React
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-3C3C3D?style=for-the-badge&logo=linux&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-</details>
+**Security & IAM**
 
-<details>
-<summary><b>Infrastructure</b></summary>
+![Keycloak](https://img.shields.io/badge/Keycloak-008AAA?style=for-the-badge&logo=keycloak&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-2D3748?style=for-the-badge&logo=auth0&logoColor=white)
+![RBAC / ABAC / ACL](https://img.shields.io/badge/RBAC_·_ABAC_·_ACL-1F6FEB?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Secure Development](https://img.shields.io/badge/Secure_Development-2E7D32?style=for-the-badge&logo=owasp&logoColor=white)
 
-Docker · VPS · Kubernetes · Terraform
+**AI & Automation**
 
-</details>
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agents](https://img.shields.io/badge/Agentes-6E40C9?style=for-the-badge&logo=robotframework&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-<details>
-<summary><b>Security & IAM</b></summary>
+**Tooling**
 
-Keycloak · IAM · RBAC / ABAC / ACL · Secure Development
-
-</details>
-
-<details>
-<summary><b>AI & Automation</b></summary>
-
-Orquestração de LLMs · Agentes · Integrações (GitHub · Jira · Slack · IA)
-
-</details>
-
-<details>
-<summary><b>Tooling</b></summary>
-
-CLIs · Automação · Documentação técnica · Developer productivity
-
-</details>
+![CLI](https://img.shields.io/badge/CLIs-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Automation](https://img.shields.io/badge/Automação-2D3748?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docs](https://img.shields.io/badge/Documentação_técnica-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Developer Productivity](https://img.shields.io/badge/Developer_Productivity-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 06 · Knowledge Base
 
